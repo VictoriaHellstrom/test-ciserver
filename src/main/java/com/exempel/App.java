@@ -6,6 +6,6 @@ package com.exempel;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World! hffdgf");
+        System.out.println("Hello World! hff");
     }
 }
